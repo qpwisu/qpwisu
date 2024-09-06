@@ -43,17 +43,17 @@
 
   - [KT&G] 상상volunteer 16기 18.8.1 ~ 19.1.31  
   
-  - LG CNS Coding Genius 대학생 서포터즈 6기 19.9.4 ~ 19.11.27
+  - [LG CNS] Coding Genius 대학생 서포터즈 6기 19.9.4 ~ 19.11.27
   
-  - 삼성전자 대학생 나눔 봉사단 7기 19.2.22 ~ 19.12.31
+  - [삼성전자] 대학생 나눔 봉사단 7기 19.2.22 ~ 19.12.31
   
   - 2021년 데이콘 주식 종료 가격 예측 경진대회 예선 8위 본선진출
   
   - 2021년(제2회) NH투자증권 빅데이터 경진대회 예선 23위 본선진출 
 
-  - EXEM 인턴 2023.06.22 ~ 2023.08.18
+  - [EXEM] 인턴 2023.06.22 ~ 2023.08.18
   
-  - 신한투자증권 프로 디지털 아카데미 2024.09.03 ~ 
+  - [신한투자증권] 프로 디지털 아카데미 2024.09.03 ~ 
   
   ### 🪪자격증🪪
   ---
@@ -62,7 +62,4 @@
   - SQLD
 
   - ADSP
-
-  <a href="https://github.com/qpwisu/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpwisu" alt="Top Languages" />
-  </a>
+    
