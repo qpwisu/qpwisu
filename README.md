@@ -29,7 +29,7 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-  ### 🙇🏻‍♂️활동🙇🏻‍♂️
+  ### 🙇🏻‍♂️히스토리🙇🏻‍♂️
   ---
   
   국민대학교 소프트웨어학과 
