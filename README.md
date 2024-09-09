@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Han%20Yeong%20Jang&color=B3CEE5&height=200&fontColor=FFFFFF)
 </div>
 
-## 안녕하세요, 도전을 즐기는 백엔드 개발자 장 <img src="https://github.com/user-attachments/assets/3c8a6bc9-410b-4547-a5b4-27450012f5c4" alt="brightened_image" width="40" style="vertical-align: middle;"> 입니다 👋
+## 안녕하세요, 관계를 중요하게 생각하는 개발자 장 <img src="https://github.com/user-attachments/assets/3c8a6bc9-410b-4547-a5b4-27450012f5c4" alt="brightened_image" width="40" style="vertical-align: middle;"> 입니다 👋
 
 
 ### IAM
