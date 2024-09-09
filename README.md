@@ -6,12 +6,6 @@
 ## 안녕하세요, 관계를 중요하게 생각하는 개발자 장 <img src="https://github.com/user-attachments/assets/3c8a6bc9-410b-4547-a5b4-27450012f5c4" alt="brightened_image" width="40" style="vertical-align: middle;"> 입니다 👋
 
 
-### IAM
----
-- MBTI : ISTP
-- Hobby : 러닝
-- Final Vocabulary: 유대감
-
 ### 👋About Me👋
 ---
 - 팀원간의 관계를 중요시 생각하고 항상 즐겁게 일하고자 노력합니다.
@@ -70,6 +64,12 @@
 
 - ADSP
 
+### IAM
+---
+- MBTI : ISTP
+- Hobby : 러닝
+- Final Vocabulary: 유대감
+- 
 ### 📩연락처 
 ---
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qpwisu@gmail.com)
