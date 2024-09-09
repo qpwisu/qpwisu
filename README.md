@@ -52,16 +52,17 @@
 | [EXEM] 인턴                                               | 23.06.22 ~ 23.08.18      |
 | [신한투자증권] 프로 디지털 아카데미                        | 24.09.03 ~                 |
 
-  
-  ### 🪪자격증🪪
-  ---
-  - 정보처리기사 
 
-  - SQLD
+### 🪪자격증🪪
+---
+- 정보처리기사 
 
-  - ADSP
+- SQLD
+
+- ADSP
 
 ### 📩연락처 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qpwisu@gmail.com)
+---
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qpwisu@gmail.com)
 
     
