@@ -64,7 +64,7 @@
 
 - ADSP
 
-### IAM
+### TMI
 ---
 - MBTI : ISTP
 - Hobby : 러닝
