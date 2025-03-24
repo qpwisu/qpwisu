@@ -117,12 +117,6 @@
 
 - ADSP
 
-### TMI
----
-- MBTI : ISTP
-- Hobby : 러닝
-- Final Vocabulary: 유대감
-
 ### 📩연락처 
 ---
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:qpwisu@gmail.com)
